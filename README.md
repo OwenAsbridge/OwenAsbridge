@@ -1,31 +1,38 @@
-### Hi, I'm Owen 👋
+## About
 
-I'm a senior Mechanical Engineering student at **South Dakota Mines** (BS ME, May 2027) with minors in Aerospace and Systems Engineering. I hold an **active Secret security clearance** through AFGSC and I'm actively seeking full-time engineering roles starting Summer 2027.
+Senior Mechanical Engineering student at **South Dakota Mines** (BS ME, May 2027) with minors in Aerospace and Systems Engineering. Active **Secret security clearance** through Air Force Global Strike Command.
 
-My focus is **space and launch systems**, with strong interest in **defense aerospace** and **robotics**. I like problems where a real physical thing has to survive a hard environment — re-entry heating, launch loads, austere-facility inspection, precision motion control.
+I'm drawn to aerospace and robotics because both fields are built on innovation — every mission, every platform, every hard problem forces engineers to create something that didn't exist before. I want a career where continuous learning isn't a nice-to-have but the baseline expectation of the job, and few industries embody that more than space, defense, and advanced robotics.
 
-### What I'm working on
+Actively seeking full-time engineering roles beginning Summer 2027.
 
-- **AFGSC National Security Fellowship** — solo development of a ceiling-inspection robot for the Ellsworth AFB Civil Engineer Squadron. Full mechanical design and prototype build; delivery May 2027.
-- **Autonomous pick-and-place robot** — leading a 5-person mechatronics team building a ball-screw-driven manipulator with dual color-sensor feedback on an Arduino MEGA. 65-second three-cycle completion.
-- Chasing the **Wildfire Labs hackathon** project — an AI-powered credit union audit prep tool that took 2nd place — into an actual business.
+## What I'm working on
 
-### Featured projects
+**AFGSC National Security Fellowship — Lead Engineer** *(Jun 2026 – Present)*
+*Air Force Global Strike Command / Ellsworth AFB Civil Engineer Squadron*
 
-Pinned below. Highlights:
+Sole engineer developing a lightweight inspection robot to replace destructive ceiling teardown for water-intrusion detection in AFGSC facilities. Ran preliminary hand calculations to size structural and drive components, then produced the full SolidWorks part and assembly models for the mechanical sub-system. Validated part strength with SolidWorks FEA, iterated designs to meet factor-of-safety targets under worst-case loading, and reduced component mass by an average of **21%** through topology optimization and material re-selection while preserving strength margins. Prototype delivery: May 2027.
 
-- **Artemis II Orion re-entry TPS sizing** — Python finite-difference solver, Fay–Riddell and Sutton–Graves stagnation-point heating, Avcoat thickness optimization via bisection.
-- **Apollo 11 LM landing gear dynamic analysis** — MATLAB symbolic solve of the touchdown transient using inverse Laplace methods.
-- **Wind tunnel + ANSYS Fluent CFD** — professor requested it as a reference for future classes.
-- **Constrained compression spring optimization** — `fmincon` with Modified Goodman fatigue criterion.
+## Featured projects
 
-### Tools
+Pinned below:
 
-CAD & simulation: SolidWorks, Autodesk Inventor, Fusion 360, AutoCAD, Revit, ANSYS Fluent
-Analysis & code: MATLAB (Symbolic, `fmincon`), Python (NumPy, SciPy, finite-difference methods), Arduino / C++
-Manufacturing: 3D printing (FDM), CNC milling, CNC plasma cutting, GD&T
+- **Artemis II Orion re-entry TPS sizing** — Python finite-difference solver, Fay–Riddell and Sutton–Graves stagnation-point heating correlations, Avcoat heat shield thickness optimization via bisection search.
+- **Autonomous pick-and-place robot** — Lead of a 5-person mechatronics team building a ball-screw-driven manipulator with dual color-sensor feedback on an Arduino MEGA; 65-second three-cycle completion.
 
-### Reach out
+*More projects added as they're published.*
+
+## Technical skills
+
+- **CAD / Design:** SolidWorks, Autodesk Inventor, Fusion 360, AutoCAD, Autodesk Revit
+- **Simulation / Analysis:** ANSYS Fluent (CFD), SolidWorks FEA, finite-difference solvers, MATLAB Symbolic Toolbox
+- **Programming / Numerical:** MATLAB (symbolic, `fmincon`, `ilaplace`, ODE solvers), Python (finite-difference, bisection optimization, NumPy/SciPy), Arduino / C++
+- **Prototyping / Manufacturing:** 3D printing (FDM, SLA), CNC milling, CNC plasma cutting, hand and power tools
+- **Electronics / Mechatronics:** Arduino (UNO, MEGA), sensors (color, light, HD camera), stepper / servo / DC motor control, power distribution, sensor integration
+- **Aerospace Domain:** Aerothermodynamics (Fay–Riddell, Sutton–Graves, Rankine–Hugoniot), CFD setup and interpretation
+- **Documentation / Process:** GD&T (ASME Y14.5), LaTeX, technical report writing, Microsoft Office, Google Workspace
+
+## Contact
 
 - Email: **your.email@example.com**
 - LinkedIn: **linkedin.com/in/your-handle**
