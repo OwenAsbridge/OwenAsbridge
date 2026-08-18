@@ -4,7 +4,7 @@
 
 Senior Mechanical Engineering student at **South Dakota Mines** (BS ME, May 2027) with minors in Aerospace and Systems Engineering. Active **Secret security clearance** through Air Force Global Strike Command.
 
-I'm drawn to aerospace and robotics because both fields are built on innovation — every mission, every platform, every hard problem forces engineers to create something that didn't exist before. I want a career where continuous learning isn't a nice-to-have but the baseline expectation of the job, and few industries embody that more than space, defense, and advanced robotics.
+I'm drawn to aerospace and robotics because both fields are built on innovation, every mission, every platform, every hard problem forces engineers to create something that didn't exist before. I want a career where continuous learning is the baseline expectation of the job, and few industries embody that more than space, defense, and advanced robotics.
 
 Actively seeking full-time engineering roles beginning Summer 2027.
 
@@ -13,7 +13,7 @@ Actively seeking full-time engineering roles beginning Summer 2027.
 **AFGSC National Security Fellowship — Lead Engineer** *(Jun 2026 – Present)*
 *Air Force Global Strike Command / Ellsworth AFB Civil Engineer Squadron*
 
-Sole engineer developing a lightweight inspection robot to replace destructive ceiling teardown for water-intrusion detection in AFGSC facilities. Ran preliminary hand calculations to size structural and drive components, then produced the full SolidWorks part and assembly models for the mechanical sub-system. Validated part strength with SolidWorks FEA, iterated designs to meet factor-of-safety targets under worst-case loading, and reduced component mass by an average of **21%** through topology optimization and material re-selection while preserving strength margins. Prototype delivery: May 2027.
+Sole engineer developing a lightweight inspection robot. Ran preliminary hand calculations to size structural and drive components, then produced the full SolidWorks part and assembly models for the mechanical sub-system. Validated part strength with SolidWorks FEA, iterated designs to meet factor-of-safety targets under worst-case loading, and reduced component mass by an average of **21%** through topology optimization and material re-selection while preserving strength and Factors of Safety.
 
 ## Featured projects
 
@@ -36,6 +36,6 @@ Pinned below:
 
 ## Contact
 
-- Email: **your.email@example.com**
-- LinkedIn: **linkedin.com/in/your-handle**
+- Email: **owenasbridge@gmail.com**
+- LinkedIn: **linkedin.com/in/owen-asbridge**
 - Resume: [PDF](link-to-your-resume-repo)
