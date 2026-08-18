@@ -1,3 +1,5 @@
+### Hi, I'm Owen 👋
+
 ## About
 
 Senior Mechanical Engineering student at **South Dakota Mines** (BS ME, May 2027) with minors in Aerospace and Systems Engineering. Active **Secret security clearance** through Air Force Global Strike Command.
