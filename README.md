@@ -2,11 +2,11 @@
 
 ## About
 
-Senior Mechanical Engineering student at **South Dakota School of Mines and Technology** (BS ME, May 2027), with minors in Aerospace and Systems Engineering. I hold an **active Secret security clearance** through Air Force Global Strike Command.
+Senior Mechanical Engineering student at South Dakota School of Mines and Technology, pursuing a B.S. in Mechanical Engineering with minors in Aerospace and Systems Engineering, focused on astronautics and space exploration systems.
 
-Aerospace and robotics pulled me in for the same reason: both are industries where the job is to build things that haven't been built before. I want a career where learning something new every week isn't a bonus, it's the baseline — and few fields deliver that as consistently as space, defense, and advanced robotics.
+Aerospace and robotics pulled me in for the same reason: both are industries where the job is to build things that haven't been built before. I want a career where learning something new every week is the baseline. and few fields deliver that as consistently as space, defense, and advanced robotics.
 
-Actively seeking full-time engineering roles beginning Summer 2027, with primary interests in **propulsion, structures, testing, and R&D**.
+Hands-on experience across CAD design, prototyping, programming, and fabrication, with projects spanning Arduino integration, CNC machining, FEA, and GD&T. Proficient in SolidWorks, Autodesk Inventor, ANSYS Fluent, MATLAB, and Python, with a strong capability to take concepts from design through build and testing. Current AFGSC National Security Fellow and consistent Dean's List performance every semester.
 
 ## What I'm working on
 
