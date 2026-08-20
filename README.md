@@ -43,5 +43,5 @@ Pinned below:
 
 - Email: **owenasbridge@gmail.com**
 - LinkedIn: **[linkedin.com/in/owen-asbridge](https://linkedin.com/in/owen-asbridge)**
-- Resume: **[PDF](https://github.com/OwenAsbridge/OwenAsbridge/main/Owen_Asbridge_Resume.pdf)**
+- Resume: **[PDF](https://github.com/OwenAsbridge/OwenAsbridge/blob/main/Owen_Asbridge_Resume.pdf)**
 - Location: Rapid City, SD *(location-flexible for full-time roles)*
